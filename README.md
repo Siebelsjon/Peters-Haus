@@ -61,9 +61,11 @@ Spiel schließen = ALT + F4
 
 ### Code Erklärung
 __Peters Haus__
+
 ![Peters Haus - Klassendiagramm](https://github.com/user-attachments/assets/c0833adf-8d2d-4df4-9861-590e608449b8)
 
 __Drachengames__
+
 ![Drachengames - Klassendiagramm](https://github.com/user-attachments/assets/03f8f42d-ae3f-4496-937d-cb451de2df6c)
 
 
