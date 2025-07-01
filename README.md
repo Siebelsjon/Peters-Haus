@@ -1,10 +1,15 @@
-# Informatik Project
+# Informatik Projekt
 ## Peters Haus
 ### Idee
 Peters Haus ist ein Anomalie-Spiel, bei welchem der Spieler seine Maus bewegen kann und so einen kleinen ausschnitt des Spielbereich sieht und so unterschiede (=Anomalien) erkennen muss. Nicht bei jeden Level ist eine Anomalie enthalten, wenn dann sind diese Unterschiede meist subtil.
 
 ### Ausführung
-Pro Level wird ein Raum geladen 
+Pro Level wird ein Raum geladen, dieser kann eine Anomalie enthaltne, oder auch nicht, die Aufgabe des Spielers ist es Anomalien zu finden und zu melden. Mein Ziel hierbei war es die Anomalien einfach erweiterbar zu machen, dies habe ich durch das automatische auslesen einer Textdatei erreicht, es muss nur eine oder mehrere texturen dem entsprechenden Ordner hinzugefügt werden und die Textdatei dementsprechend erweitert werden, dies wird noch später genauer erklärt. Der Trick bei diesem Spiel ist jedoch, dass man nie den ganzen Bildschirm sieht sondern nur einen Ausschnitt den man mit der Maus verschieben kann, was es schwieriger macht.
+
+### Spielanweisungen
+Peters Haus: Wenn du eine Anomalie siehst drücke: A, wenn nicht dann: W. Du musst es fünfmal hintereinander richtig erraten um zu gewinnen, am anfang ist es immer keine Anomalie. 
+Eine Anomalie ist wie folgt definiert: Es muss Abweichungen von dem am anfang gezeigten Raum geben
+
 
 ## Drachengames
 ### Idee
@@ -14,12 +19,27 @@ Das als Easter-Egg programmierte Spiel kann durch eine Tastenkombination von Pet
 Über die Mindestanforderung hinaus werden zahlreiche Erweiterungen implementiert. Das verfügt über ein detailliertes Sounddesign mit hyperrealistischen Schrittgeräuschen auf dem Eis. Sowie einen Todesschrei, der den Moment des Untergangs atmosphärisch unterstreicht. Zudem wurde ein Bomben-Item (Schaufel-Feature) hinzugefügt, das einen Teil der Eisblöcke in der Mitte terminiert. Eis unter den Spielern zerbricht dabei nicht sofort, sondern durchläuft einen natürlichen Schmelzzyklus. Ergänzt wird das gesamte Spielerlebnis durch die tragende „RESET“ Funktion gefördert, die nach jedem Sturz beide Spieler zufällig auf dem Spielfeld neu positioniert, als auch den Boden erneut vereist. 
 
 ### Spielanweisung
-Spieler 1 Mario(blau):
+
+__Spieler 1 Mario(blau):__
+
 Fortbewegung = WASD
+
 Bombe zünden = E
-Spieler 2 Peter (rot):
+
+
+
+__Spieler 2 Peter (rot):__
+
 Fortbewegung = Pfeiltasten
+
 Bombe zünden = M 
-Allgemeine Inputs
+
+
+
+__Allgemeine Inputs__
+
 Reset Game = Enter
+
 Spiel schließen = ALT + F4
+
+## Dokumentation
