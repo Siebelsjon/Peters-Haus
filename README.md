@@ -51,6 +51,8 @@ Reset Game = Enter
 Spiel schließen = ALT + F4
 
 ## Dokumentation
+Zuordnungen werden keine vorgenommen da wir immer zusammengearbeitet haben!
+
 ### Taskboard
 ![Taskboard1](https://github.com/user-attachments/assets/54f889de-5f32-4316-a89f-12c12378c419)
 ![Taskboard2](https://github.com/user-attachments/assets/50d80ac8-b6f3-4388-91e2-cd07066d2003)
