@@ -1,1 +1,2 @@
-# Peters-Haus
+# Informatik Project
+## Peters Haus
