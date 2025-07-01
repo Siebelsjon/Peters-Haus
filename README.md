@@ -51,3 +51,19 @@ Reset Game = Enter
 Spiel schließen = ALT + F4
 
 ## Dokumentation
+### Taskboard
+![Taskboard1](https://github.com/user-attachments/assets/54f889de-5f32-4316-a89f-12c12378c419)
+![Taskboard2](https://github.com/user-attachments/assets/50d80ac8-b6f3-4388-91e2-cd07066d2003)
+![Taskboard3](https://github.com/user-attachments/assets/085533f3-0ca6-49b3-b49b-12351d5ccc17)
+![Taskboard4](https://github.com/user-attachments/assets/9ae04a1d-5599-4530-938c-788160103974)
+![Taskboard5](https://github.com/user-attachments/assets/4f59507e-c01c-4394-aa3e-d46ebd13ac4f)
+![Taskboard6](https://github.com/user-attachments/assets/78c17114-2304-4d0a-a250-c5c5a0df931d)
+
+### Code Erklärung
+__Peters Haus__
+![Peters Haus - Klassendiagramm](https://github.com/user-attachments/assets/c0833adf-8d2d-4df4-9861-590e608449b8)
+
+__Drachengames__
+![Drachengames - Klassendiagramm](https://github.com/user-attachments/assets/03f8f42d-ae3f-4496-937d-cb451de2df6c)
+
+
