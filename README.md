@@ -9,9 +9,16 @@ Pro Level wird ein Raum geladen, dieser kann eine Anomalie enthaltne, oder auch 
 ### Spielanweisungen
 Peters Haus: Wenn du eine Anomalie siehst drücke: A, wenn nicht dann: W. Du musst es fünfmal hintereinander richtig erraten um zu gewinnen, am anfang ist es immer keine Anomalie. 
 Eine Anomalie ist wie folgt definiert: Es muss Abweichungen von dem am anfang gezeigten Raum geben
+Das Easter-Egg kann durch drücken von folgenden Buchstaben geöffnet werden: pingu
+
+### Hinzufügen von Anomalien
+Wie oben schon erwähnt gehe ich hier auf das Hinzufügen von Anomalien ein. zuerst erstellt man die Anomalie als .png, daraufhin fügt man in der Textdatei in der nächsten Zeile den Namen des Bildes ein (Wichtig: mit der endung), daraufhin kann man Solids hinzufügen (hat aktuell noch keine Funktion, diese kann aber noch hinzugefügt werden. Als nächstest wird True (für Anomlie) eingetragen. Nun kommen die Argumente, dies ist ein Teil von dem ich kein Nutzen machen konnte, jedoch kann man damit Abläufe hinzufügen, das heißt, keine statische Anomalie, sondern eine Handlung. Als Beispiel: Am Anfang alles Normal -> Licht geht aus(Bildschirm wird Schwarz) -> Objekt verschoben.
 
 
 ## Drachengames
+### Wichtig
+Trailer und Werbevideo sind im Release in /Media/Videos
+
 ### Idee
 Das als Easter-Egg programmierte Spiel kann durch eine Tastenkombination von Peters Haus aus gestartet werden, das Spiel erinnert an eine billige Mischung zwischen SuperTux und dem einen Minispiel auf meinem Tablet.
 
