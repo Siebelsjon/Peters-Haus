@@ -4,7 +4,7 @@
 Peters Haus ist ein Anomalie-Spiel, bei welchem der Spieler seine Maus bewegen kann und so einen kleinen ausschnitt des Spielbereich sieht und so unterschiede (=Anomalien) erkennen muss. Nicht bei jeden Level ist eine Anomalie enthalten, wenn dann sind diese Unterschiede meist subtil.
 
 ### Ausführung
-Pro Level wird ein Raum geladen, dieser kann eine Anomalie enthaltne, oder auch nicht, die Aufgabe des Spielers ist es Anomalien zu finden und zu melden. Mein Ziel hierbei war es die Anomalien einfach erweiterbar zu machen, dies habe ich durch das automatische auslesen einer Textdatei erreicht, es muss nur eine oder mehrere texturen dem entsprechenden Ordner hinzugefügt werden und die Textdatei dementsprechend erweitert werden, dies wird noch später genauer erklärt. Der Trick bei diesem Spiel ist jedoch, dass man nie den ganzen Bildschirm sieht sondern nur einen Ausschnitt den man mit der Maus verschieben kann, was es schwieriger macht.
+Pro Level wird ein Raum geladen, dieser kann eine Anomalie enthalten, oder auch nicht, die Aufgabe des Spielers ist es Anomalien zu finden und zu melden. Mein Ziel hierbei war es die Anomalien einfach erweiterbar zu machen, dies habe ich durch das automatische auslesen einer Textdatei erreicht, es muss nur eine oder mehrere texturen dem entsprechenden Ordner hinzugefügt werden und die Textdatei dementsprechend erweitert werden, dies wird noch später genauer erklärt. Der Trick bei diesem Spiel ist jedoch, dass man nie den ganzen Bildschirm sieht sondern nur einen Ausschnitt den man mit der Maus verschieben kann, was es schwieriger macht.
 
 ### Spielanweisungen
 Das Prgramm Peters haus.py muss geöffnet werden
