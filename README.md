@@ -71,6 +71,7 @@ __Peters Haus__
 
 __Drachengames__
 
-![Drachengames - Klassendiagramm](https://github.com/user-attachments/assets/03f8f42d-ae3f-4496-937d-cb451de2df6c)
+![Klassendiagram](https://github.com/user-attachments/assets/1da9087b-740a-4d9d-8bdb-e15479d72527)
+
 
 
