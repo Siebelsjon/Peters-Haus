@@ -15,6 +15,9 @@ Das Easter-Egg kann durch drücken von folgenden Buchstaben geöffnet werden: pi
 ### Hinzufügen von Anomalien
 Wie oben schon erwähnt gehe ich hier auf das Hinzufügen von Anomalien ein. zuerst erstellt man die Anomalie als .png, daraufhin fügt man in der Textdatei in der nächsten Zeile den Namen des Bildes ein (Wichtig: mit der endung), daraufhin kann man Solids hinzufügen (hat aktuell noch keine Funktion, diese kann aber noch hinzugefügt werden. Als nächstest wird True (für Anomlie) eingetragen. Nun kommen die Argumente, dies ist ein Teil von dem ich kein Nutzen machen konnte, jedoch kann man damit Abläufe hinzufügen, das heißt, keine statische Anomalie, sondern eine Handlung. Als Beispiel: Am Anfang alles Normal -> Licht geht aus(Bildschirm wird Schwarz) -> Objekt verschoben.
 
+### Credits
+Credits für die Texturen gehen an Pedro
+
 
 ## Drachengames
 ### Wichtig
